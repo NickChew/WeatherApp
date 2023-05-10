@@ -1,0 +1,21 @@
+{
+  "name": "projectstarter",
+  "version": "1.0.0",
+  "description": "blank project",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nick Chew",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "gsap": "^3.11.5",
+    "react": "^18.2.0",
+    "react-modal": "^3.16.1",
+    "react-router-dom": "^6.8.2",
+    "typescript": "^5.0.4",
+    "wtc-gl": "^1.0.0-beta.48"
+  }
+}
